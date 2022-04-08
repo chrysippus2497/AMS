@@ -2,6 +2,7 @@
 
 session_start();
 
+
 // Checks if user is logged in. Return true if logged in and false otherwise.
 function is_user_logged_in()
 {

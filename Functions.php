@@ -320,6 +320,7 @@ function connect_to_database()
     return $conn;
 }
 
+
 // Close database connection
 function close_connection($conn)
 {
